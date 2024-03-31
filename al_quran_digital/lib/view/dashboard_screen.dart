@@ -1,4 +1,3 @@
-import 'package:al_quran_digital/repositories/al_quran_repo.dart';
 import 'package:al_quran_digital/theme.dart';
 import 'package:al_quran_digital/view/surah/surah_screen.dart';
 import 'package:flutter/material.dart';
